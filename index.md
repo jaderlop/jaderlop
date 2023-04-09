@@ -1,10 +1,10 @@
-## Portfolio
+## Proyectos en ciencia de datos e inteligencia artificial
 
 ---
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[regresion logistica aplicada al cancer de mama](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
