@@ -2,7 +2,7 @@
 
 ---
 ### Regresion logistica aplicada a la clasificacion del cancer de mama
-los tumores se pueden clasificar en benignos o malignos la correcta clasificacion de estos puede ayudar en el pronto tratamiento del cancer
+Los tumores se pueden clasificar en benignos o malignos la correcta clasificacion de estos puede ayudar en el pronto tratamiento del cancer creamos un modelo de machine learning capaz de clasificar correctamente  le tipo de cancer **con mas de 95% de aciertos**
 
 <img src="images/nci-vol-2706-150-fmri-del-pecho.jpg?raw=true"/>
 [ver codigo en colab](/sample_page)
