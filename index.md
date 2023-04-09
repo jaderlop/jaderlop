@@ -1,10 +1,10 @@
 ## Proyectos en ciencia de datos e inteligencia artificial
 
 ---
+### Regresion logistica aplicada a la clasificacion del cancer de mama
+los tumores se pueden clasificar en benignos o malignos la correcta clasificacion de estos puede ayudar en el pronto tratamiento del cancer
 
-### Category Name 1 
-
-[regresion logistica aplicada al cancer de mama](/sample_page)
+[ver codigo en colab](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
