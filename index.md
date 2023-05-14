@@ -4,7 +4,7 @@
 ### ¿Quienes son tus clientes? conocelos con el analisis RFM
 La metodología RFM es importante para la segmentación de clientes porque permite identificar y clasificar a los clientes según su comportamiento de compra en tres dimensiones: Recencia, Frecuencia y Monto (RFM). Esto permite una mejor comprensión del comportamiento del cliente y ayuda a diseñar estrategias de marketing y ventas más efectivas buscando una mayor fidelizacion y retencion del cliente.
 
-[ver codigo en colab](https://colab.research.google.com/drive/1-UyxzBprUjjFX2uUPQaCsbHLXCYwt3QS#scrollTo=6gqCnqCagqh5)
+[ver codigo en colab](https://colab.research.google.com/drive/1jofFUGZTGZSAg53_TjHPeNkhF8DCitv8?usp=share_link)
 <img src="images/ingreso_de_cliente_por_segmento.jpg?raw=true"/>
 ---
 ### Regresion logistica aplicada a la clasificacion del cancer de mama
