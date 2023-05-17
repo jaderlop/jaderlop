@@ -7,7 +7,7 @@ La metodología RFM es importante para la segmentación de clientes porque permi
 
 
 [see code in colab](https://colab.research.google.com/drive/17j9oQlfvI6dEIuYfOGME86F1B8Jdg1bM?usp=share_link)
-<img src="images/ingreso_de_cliente_por_segmento.jpg?raw=true"/>
+<img src="images/clients_by_segment.jpg?raw=true"/>
 ---
 ### Regresion logistica aplicada a la clasificacion del cancer de mama
 Los tumores se pueden clasificar en benignos o malignos la correcta clasificacion de estos puede ayudar en el pronto tratamiento del cancer creamos un modelo de machine learning capaz de clasificar correctamente  le tipo de cancer **con mas de 95% de aciertos**
