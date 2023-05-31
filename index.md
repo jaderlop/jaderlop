@@ -13,7 +13,7 @@ La metodología RFM es importante para la segmentación de clientes porque permi
 Los tumores se pueden clasificar en benignos o malignos la correcta clasificacion de estos puede ayudar en el pronto tratamiento del cancer creamos un modelo de machine learning capaz de clasificar correctamente  le tipo de cancer **con mas de 95% de aciertos**
 
 
-[ver codigo en colab](https://colab.research.google.com/drive/1BudwpqHo9BXVn9v1iQOsNiNwxC7HGRh9)
+[ver codigo en colab](https://colab.research.google.com/drive/1BudwpqHo9BXVn9v1iQOsNiNwxC7HGRh9?usp=share_link)
 <img src="images/nci-vol-2706-150-fmri-del-pecho.jpg?raw=true"/>
 
 ---
